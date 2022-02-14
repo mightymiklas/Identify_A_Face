@@ -24,19 +24,31 @@ The following libraries are required:
 ---
 
 ## Installation Guide
+Can be built using docker image or heroku cli.
 
+For additional information:
+[Docker](https://docs.docker.com/) 
+[Heroku](https://devcenter.heroku.com/)
 
 ---
 
 ## Usage
-Can be built using docker image or heroku cli. 
 
 [Demo](https://calm-everglades-55128.herokuapp.com/)
+
+From the demo site you can run some of the example and see the returned results as displayed below.
+
+[George Clooney](https://i.imgur.com/Vl0ohit.png)
+
+[The Cast Of That 70's Show](https://i.imgur.com/53PCoxT.png)
+
+[Adele](https://i.imgur.com/CUhntJY.png)
+
 ---
 
 ## License
 
-Open-Source 
+Open-Sourced. 
 
 ---
 ```
