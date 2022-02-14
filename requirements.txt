@@ -1,0 +1,10 @@
+Dlib>=18.17.100
+click==6.7
+imutils==0.5.3
+MarkupSafe==1.0
+numpy==1.20.1
+Jinja2>=2.10.1
+itsdangerous==0.24
+Werkzeug>=0.15
+opencv-python==4.5.1.48
+Flask==1.1.2
