@@ -31,7 +31,7 @@ The following libraries are required:
 ## Usage
 Can be built using docker image or heroku cli. 
 
-[Demo:](https://calm-everglades-55128.herokuapp.com/)
+[Demo](https://calm-everglades-55128.herokuapp.com/)
 ---
 
 ## License
