@@ -2,6 +2,24 @@
 
 This is a simple tool to identify a face based upon Davis E. King's machine learning toolkit in C++. I chose this library because it seems to have the most straightforward approach to facial recongition using maching learning among all the Python ML libraries that are out there. This application is inspired by this [project](https://evamo0508.github.io/files/2019Spring-introduction_to_computer_network-FaceDanceMachine.pdf) and this [repository](https://github.com/ageitgey/face_recognition). I plan to add upon this repository further and play around more with what can be done. 
 
+
+George Clooney 
+
+![George Clooney](https://i.imgur.com/Vl0ohit.png)
+
+
+
+The Cast Of That 70's Show 
+
+![The Cast Of That 70's Show](https://i.imgur.com/53PCoxT.png)
+
+
+
+ Adele 
+ 
+ ![Adele](https://i.imgur.com/CUhntJY.png)
+
+
 ---
 
 ## Technologies
@@ -36,26 +54,9 @@ For additional information:
 
 ## Usage
 
-[Demo](https://calm-everglades-55128.herokuapp.com/)
+[Demo](https://quiet-dawn-06731.herokuapp.com/)
 
-From the demo site you can run some of the examples from the examples folder and see the returned results as displayed below.
-
-
-George Clooney 
-
-![George Clooney](https://i.imgur.com/Vl0ohit.png)
-
-
-
-The Cast Of That 70's Show 
-
-![The Cast Of That 70's Show](https://i.imgur.com/53PCoxT.png)
-
-
-
- Adele 
- 
- ![Adele](https://i.imgur.com/CUhntJY.png)
+From the demo site you can run some of the examples from the examples folder and see the returned results as displayed above.
 
 ---
 
