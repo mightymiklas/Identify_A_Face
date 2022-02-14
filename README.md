@@ -27,7 +27,9 @@ The following libraries are required:
 Can be built using docker image or heroku cli.
 
 For additional information:
+
 [Docker](https://docs.docker.com/) 
+
 [Heroku](https://devcenter.heroku.com/)
 
 ---
