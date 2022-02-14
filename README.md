@@ -40,14 +40,12 @@ For additional information:
 
 From the demo site you can run some of the examples and see the returned results as displayed below.
 
- George Clooney
-![George Clooney](https://i.imgur.com/Vl0ohit.png)
 
- The Cast Of That 70's Show
-![The Cast Of That 70's Show](https://i.imgur.com/53PCoxT.png)
+George Clooney ![George Clooney](https://i.imgur.com/Vl0ohit.png)
 
- Adele
-![Adele](https://i.imgur.com/CUhntJY.png)
+ The Cast Of That 70's Show ![The Cast Of That 70's Show](https://i.imgur.com/53PCoxT.png)
+
+ Adele ![Adele](https://i.imgur.com/CUhntJY.png)
 
 ---
 
