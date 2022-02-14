@@ -38,7 +38,7 @@ For additional information:
 
 [Demo](https://calm-everglades-55128.herokuapp.com/)
 
-From the demo site you can run some of the examples and see the returned results as displayed below.
+From the demo site you can run some of the examples from the examples folder and see the returned results as displayed below.
 
 
 George Clooney 
