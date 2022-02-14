@@ -1,7 +1,7 @@
 Dlib>=18.17.100
 click==6.7
 imutils==0.5.3
-MarkupSafe==1.0
+MarkupSafe>=1.0
 numpy==1.20.1
 Jinja2>=2.10.1
 itsdangerous==0.24
