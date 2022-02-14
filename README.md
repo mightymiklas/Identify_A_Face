@@ -44,7 +44,7 @@ What is not included(due to file size):
 ---
 
 ## Installation Guide
-Can be built using docker image or heroku cli. Both processes are rather meticulous and that is what I spent most of my time understading. 
+Can be built using docker image or heroku cli. Both processes are rather meticulous and that is what I spent most of my time on. 
 
 For additional information:
 
