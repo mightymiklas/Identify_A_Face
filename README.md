@@ -36,8 +36,10 @@ The following libraries are required:
 - [itsdangerous](https://pypi.org/project/itsdangerous/) - for passing data back & forth in untrusted environments.
 - [Werkzeug](https://pypi.org/project/werkzeug/) - for creating a WSGI(Web Server Gateway Interface).
 - [opencv-python-headless](https://pypi.org/project/opencv-python-headless/) - Computer vision library.
-- [Flask](https://pypi.org/project/flask/) - for creating a web framework. 
+- [Flask](https://pypi.org/project/flask/) - for creating a web framework.
 
+What is not included(due to file size):
+[Dlib Models](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks_GTX.dat.bz2)
 
 ---
 
